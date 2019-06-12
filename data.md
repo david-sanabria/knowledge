@@ -1,9 +1,11 @@
 # Data Knowledge Index
 This page keeps track of the things I learn about data (broadly). I'll peel it off into sub-pages eventually.
-* See Also: [Digital Literacy](./digital-literacy.md)
+* Handy short link for this page: [https://bit.ly/know-data-page].
+* See Also: My [Digital Literacy](./digital-literacy.md) page
+
 
 ## Data Literacy
-Wikipedia's page on data literacy is in a sad state; I plan to use the information below to remedy that condition.
+Wikipedia's page on data literacy is in a sad state; I plan to use the information below to remedy that condition. (some day, maybe)
 
 ### Learning About _Data Literacy_
 * [Dalhouseie Data Literacy Report (2015)](http://dataliteracy.ca/). Dalhousie University, 2015.
@@ -11,10 +13,12 @@ This is an **excellent** "synthesis report that provides a wealth of infromation
 * [Data literacy instruction in academic libraries: best practices for librarians](https://ojs.library.ubc.ca/index.php/seealso/article/view/186335)
 * [UBC—Library:Faculty Information Literacy Toolkit](https://wiki.ubc.ca/Library:Faculty_Information_Literacy_Toolkit)
 * [Building a unified data and information literacy program: A collaborative approach to instruction](https://figshare.com/articles/Building_a_unified_data_and_information_literacy_program_A_collaborative_approach_to_instruction/1119760)
-
-
 * [Working Group on Education: digital skills for life and work](http://bit.ly/2WRNnN0). UNESCO, 2017.
 I found this report while looking at the OECD Skills Outlook 2019, which refers to this report (p. 187) as a reference for "Digital Literacy", within which "data literacy" is a component of Information and Communication Technology (ICT) literacy. This is interesting from the perspective of understanding what "data literacy" and "digital literacy" are and why they are important to learn.
+
+#### Books
+* Media and Information Literacy in Higher Education [O'Reilly Learning Platform](https://learning.oreilly.com/library/view/media-and-information/9780081006313/)
+
 
 ### Learning About _Data_
 I am focusing on learning sources that have the highest probability of being available and remaining free. There are many non-free resources (such as the books listed below), of mixed quality. Before spending money, I strongly suggest that learners focus on simple, free options to get a handle on the basics.
@@ -44,11 +48,14 @@ I am focusing on learning sources that have the highest probability of being ava
 * [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
 * [An introduction to the General Temporal Data Model and the Structured Population Event History Register (SPEHR)
 ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4161129/)
+* Mike Smit (co-author): 
 
 #### Books
 * [The Information Diet](https://learning.oreilly.com/library/view/the-information-diet/9781449321536/)
 * [Infromation Literacy and Lifelong Learning](https://learning.oreilly.com/library/view/information-literacy-and/9781843346821/)
 * [Data Association Data Management Body of Knowledge (DAMA DM-BOK), 2nd Edition](https://dama.org/content/body-knowledge)
+* Data Visualization and Statistical Literacy for Open and Big Data [Skillsoft](https://acm.skillport.com/skillportfe/main.action#summary/BOOKS/RW$211310:_ss_book:128318)
+
 
 ## Data Strategy
 ### United States
@@ -82,4 +89,4 @@ I am focusing on learning sources that have the highest probability of being ava
 * California
   * [State Open Data Portal](http://data.ca.gov/)
   * [California Health and Human Services Agency - Open Data Portal](http://data.chhs.ca.gov/)
-d
+
