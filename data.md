@@ -3,6 +3,21 @@ This page keeps track of the things I learn about data (broadly). I'll peel it o
 * Handy short link for this page: [https://bit.ly/know-data-page].
 * See Also: My [Digital Literacy](./digital-literacy.md) page
 
+## Ethics in Data
+### Codes of Ethics and Practice
+* Association of Computing Machinery — [ACM Code of Ethics and Professional Conduct](https://ethics.acm.org/)
+* Data Science Association — [DATA SCIENCE CODE OF PROFESSIONAL CONDUCT](http://datascienceassn.org/code-of-conduct.html)
+* [Oxford-Munich Code of Conduct](http://www.code-of-ethics.org/code-of-conduct/)
+* Accenture — [Universal Principals of Data Ethics, 12 Guidelines for developing ethics codes](https://www.accenture.com/t20160629T012639Z__w__/us-en/_acnmedia/PDF-24/Accenture-Universal-Principles-Data-Ethics.pdf) (PDF)
+
+
+### Articles
+* Phi Delta Kappan — [Ethical and appropriate data use requires data literacy](https://www.kappanonline.org/ethical-appropriate-data-use-requires-data-literacy-mandinach/)
+
+
+### Books
+* Cathy O'Niel [Weapons of Math Destruction](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction)
+* Tim O'Reilly [WTF? What’s the Future and Why It’s Up to Us](https://www.oreilly.com/tim/wtf-book.html)
 
 ## Data Literacy
 Wikipedia's page on data literacy is in a sad state; I plan to use the information below to remedy that condition. (some day, maybe)
@@ -45,10 +60,12 @@ I am focusing on learning sources that have the highest probability of being ava
 
 
 #### Articles
+* The Centre for Humanitarian Data — [We Are All Data People: Insights From The Data Literacy Survey](https://centre.humdata.org/we-are-all-data-people-insights-from-the-data-literacy-survey/)
 * [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
 * [An introduction to the General Temporal Data Model and the Structured Population Event History Register (SPEHR)
 ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4161129/)
 * Mike Smit (co-author): 
+
 
 #### Books
 * [The Information Diet](https://learning.oreilly.com/library/view/the-information-diet/9781449321536/)
