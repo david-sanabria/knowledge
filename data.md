@@ -64,7 +64,7 @@ I am focusing on learning sources that have the highest probability of being ava
 * [Common statistical tests are linear models (or: how to teach stats)](https://lindeloev.github.io/tests-as-linear/)
 * [An introduction to the General Temporal Data Model and the Structured Population Event History Register (SPEHR)
 ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4161129/)
-* Mike Smit (co-author): 
+* Mike Smit (co-author): [Publications List](http://www.mikesmit.com/publications/)
 
 
 #### Books
