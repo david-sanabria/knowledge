@@ -61,6 +61,13 @@ I am focusing on learning sources that have the highest probability of being ava
   * [Lesson 15 - Managing change in open data](https://www.europeandataportal.eu/elearning/en/module15/)
   * [Lesson 16 - Achieving impact with open data](https://www.europeandataportal.eu/elearning/en/module16/)
 
+### Advanced Learning: _Data Science, Math, and Programming_
+Here are some nice links to resources that focus on Data Science instruction, which brings together advanced topics and tools including machine learning, programming with R and Python, and more. Advanced data analytics often requires you to leave the comfortable embrace of Microsoft Excel, especially when you have to prepare and transform data before you can use it for analysis.
+
+* Microsoft Academy (Free for now)
+  * [Data Science Track](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
+* EdX (Free to learn, Pay for Certificate)
+  * [Foundations of Data Science: Computational Thinking with Python](https://www.edx.org/course/foundations-of-data-science-computational-thinking-with-python-0)
 
 #### Articles
 * The Centre for Humanitarian Data — [We Are All Data People: Insights From The Data Literacy Survey](https://centre.humdata.org/we-are-all-data-people-insights-from-the-data-literacy-survey/)
