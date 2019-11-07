@@ -40,6 +40,10 @@ I found this report while looking at the OECD Skills Outlook 2019, which refers 
 
 ### Learning About _Data_
 I am focusing on learning sources that have the highest probability of being available and remaining free. There are many non-free resources (such as the books listed below), of mixed quality. Before spending money, I strongly suggest that learners focus on simple, free options to get a handle on the basics.
+#### START HERE
+[The Data Literacy Project](https://thedataliteracyproject.org/) (Free)- Primarily sponsored by Qlik, this site has a wealth of learning material that is worth looking into. This group also offers certification as well as a feudal system of classification (e.g. Data Knight, Data Aristocrat). Looking past classification differences, however, this a very worthy project and a good place to start learning.
+
+#### Check these out next
 * [School of Data](https://schoolofdata.org/) (Free) — General Introduction to Data Topics
   * [Data Fundamentals](https://schoolofdata.org/courses/#DataFundamentals) — Modules: "What is Data", "Finding Data", "Sort and Filter: The basics of spreadsheets", "Taming the Fierce Beast – The Math you need to start", "From Data to Diagrams: An introduction to plots and charts", "Look Out!: Common Misconceptions and how to avoid them", "Tell me a story: Working out what’s interesting in your data", "Data provenance", and "Basic Graphs"
   * [Data Cleaning](https://schoolofdata.org/courses/#IntroDataCleaning) — Modules: "Course outline: a gentle introduction to cleaning data", "Section 1: Nuts and chewing gum", "Section 2: the Invisible Man is in your spreadsheet, messing with your data", "Section 3: your data is a witch’s brew", and "Section 4: Did you bring the wrong suitcase (again)?"
