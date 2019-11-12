@@ -24,6 +24,9 @@ These are the key articles & Blog posts I've found for this subject:
   but the heart of DevOps (IMO) is best described by Dr. Gene Kim in this blog post on the “Three Ways”: .
 
 ### Reading List
+#### 2019Q3
+* [https://devops.com/breaking-down-the-owasp-api-security-top-10-part-1](https://devops.com/breaking-down-the-owasp-api-security-top-10-part-1)
 
-#### Week of 2019-04-05
+
+#### Month of 2019-04
 * [5 mistakes that doom a DevOps transformation from the start](https://techbeacon.com/devops/5-mistakes-doom-devops-transformation-start)
