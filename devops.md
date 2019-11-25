@@ -3,8 +3,8 @@
 Here (Attached and linked) is some DevOps-related material that I refer to and share when asked about DevOps.
  
 ## Books
-* Accelerate — [Amazon](), [O'Reilly](https://learning.oreilly.com/library/view/accelerate/9781457191435/)
-* The DevOps Handbook — [Amazon](), [O'Reilly](https://learning.oreilly.com/library/view/the-devops-handbook/9781457191381/)
+* Accelerate — [O'Reilly](https://learning.oreilly.com/library/view/accelerate/9781457191435/)
+* The DevOps Handbook — [O'Reilly](https://learning.oreilly.com/library/view/the-devops-handbook/9781457191381/)
 
 ## Reports
 * [DORA State of DevOps – 2019](https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling) – The source.
