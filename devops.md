@@ -7,10 +7,14 @@ Here (Attached and linked) is some DevOps-related material that I refer to and s
 * The DevOps Handbook — [Amazon](), [O'Reilly](https://learning.oreilly.com/library/view/the-devops-handbook/9781457191381/)
 
 ## Reports
+* [DORA State of DevOps – 2019](https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling) – The source.
 * [The State of DevOps Report](https://puppet.com/resources/whitepaper/state-of-devops-report)
  
 ## General Learning
 Safari, alone, gives you access to copious amounts of reference material as well as last year’s O’Reilly conferences like Strata (data) and Velocity (development).
+
+Google has a great site now, thanks to the folks at DevOps Research and Assessment (DORA). These are the folks behind the DevOps Handbook, Accelerate, and the State of DevOps:
+* [Google Cloud - DevOps Resource Center](https://cloud.google.com/devops/)
  
 For personal development, you can get access to the full O’Reilly learning platform, SkillSoft books, videos, and course, as well as a number of other online learning resources with a membership to the Association for Computing Machinery (ACM). This is the best $100/year you can spend and gives you on-demand learning that you control.
 * [ACM Membership](https://www.acm.org/membership)
