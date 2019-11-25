@@ -3,8 +3,8 @@
 Here (Attached and linked) is some DevOps-related material that I refer to and share when asked about DevOps.
  
 ## Books
-* The DevOps Handbook — [Amazon](), [Safari]()
-* Accelerate — [Amazon](), [Safari]()
+* Accelerate — [Amazon](), [O'Reilly](https://learning.oreilly.com/library/view/accelerate/9781457191435/)
+* The DevOps Handbook — [Amazon](), [O'Reilly](https://learning.oreilly.com/library/view/the-devops-handbook/9781457191381/)
 
 ## Reports
 * [The State of DevOps Report](https://puppet.com/resources/whitepaper/state-of-devops-report)
@@ -13,8 +13,8 @@ Here (Attached and linked) is some DevOps-related material that I refer to and s
 Safari, alone, gives you access to copious amounts of reference material as well as last year’s O’Reilly conferences like Strata (data) and Velocity (development).
  
 For personal development, you can get access to the full O’Reilly learning platform, SkillSoft books, videos, and course, as well as a number of other online learning resources with a membership to the Association for Computing Machinery (ACM). This is the best $100/year you can spend and gives you on-demand learning that you control.
-* [ACM Membership]()
-* [ACM Learning Center]()
+* [ACM Membership](https://www.acm.org/membership)
+* [ACM Learning Center](https://learning.acm.org/)
 
 ## Articles
 
@@ -22,6 +22,7 @@ These are the key articles & Blog posts I've found for this subject:
 * [The Three Ways: The Principles Underpinning DevOps](https://itrevolution.com/the-three-ways-principles-underpinning-devops/) —
   Over the last three years, DevOps tooling and thinking has evolved very quickly, 
   but the heart of DevOps (IMO) is best described by Dr. Gene Kim in this blog post on the “Three Ways”: .
+* [DevOps Topologies](https://web.devopstopologies.com/) – Patterns and Anti-patterns for team organization.
 
 ### Reading List
 #### 2019Q3
