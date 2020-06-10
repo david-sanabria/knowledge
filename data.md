@@ -107,7 +107,9 @@ Here are some nice links to resources that focus on Data Science instruction, wh
   * [The DataOps Manifesto](https://www.dataopsmanifesto.org/)
 * Dataversity: [Understanding DataOps](https://www.dataversity.net/understanding-dataops/)
 * [DevOps.com](https://devops.com/): [5 Ways Your Business Can Benefit From DataOps](https://devops.com/5-ways-your-business-can-benefit-from-dataops/)
+* [IBM Big Data & Analytics Hub](https://www.ibmbigdatahub.com/): [3 reasons why DataOps is essential for big data success](https://www.ibmbigdatahub.com/blog/3-reasons-why-dataops-essential-big-data-success)
 * Also, for more context on `*Ops`, check out this article from Medium.com: [What the Heck is \*Ops?](https://medium.com/data-ops/what-the-heck-is-ops-6dc58b63787d)
+
 
 
 ## Data Strategy
