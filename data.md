@@ -69,7 +69,7 @@ I am focusing on learning sources that have the highest probability of being ava
 * [Edward Tufte. Author, Teacher](https://www.edwardtufte.com/tufte/)
 
 #### Open Data
-* [Data Equity for Main Street](https://data-equity.org/) — A project focused on 
+* [Data Equity for Main Street](https://data-equity.org/) — The Data Equity for Main Street project has developed curriculum to promote open data literacy by training librarians and community members how to find, use and give feedback about open data.
 
 ### Advanced Learning: _Data Science, Math, and Programming_
 Here are some nice links to resources that focus on Data Science instruction, which brings together advanced topics and tools including machine learning, programming with R and Python, and more. Advanced data analytics often requires you to leave the comfortable embrace of Microsoft Excel, especially when you have to prepare and transform data before you can use it for analysis.
@@ -102,7 +102,7 @@ Here are some nice links to resources that focus on Data Science instruction, wh
 ### Articles
 * Wikipedia: [DataOps](https://en.wikipedia.org/wiki/DataOps)
 * Garner Glossary: [DataOps](https://www.gartner.com/en/information-technology/glossary/dataops)
-* Data Kitchen: [[https://datakitchen.io]]
+* Data Kitchen: ([datakitchen.io](https://datakitchen.io))
   * [What is DataOps: Ten Most Common Questions](https://blog.datakitchen.io/blog/what-is-dataops-ten-most-common-questions)
   * [The DataOps Manifesto](https://www.dataopsmanifesto.org/)
 * Dataversity: [Understanding DataOps](https://www.dataversity.net/understanding-dataops/)
