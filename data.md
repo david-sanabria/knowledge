@@ -95,6 +95,20 @@ Here are some nice links to resources that focus on Data Science instruction, wh
 * [Data Association Data Management Body of Knowledge (DAMA DM-BOK), 2nd Edition](https://dama.org/content/body-knowledge)
 * Data Visualization and Statistical Literacy for Open and Big Data [Skillsoft](https://acm.skillport.com/skillportfe/main.action#summary/BOOKS/RW$211310:_ss_book:128318)
 
+## DataOps
+> "DataOps (data operations) has its roots in the Agile philosophy. It relies heavily on automation, and focuses on improving the speed and accuracy of computer processing, including analytics, data access, integration, and quality control. DataOps started as a system of best practices, but has gradually matured to a fully functional approach for handling data analytics. Additionally, it relies on, and promotes, good communications between the analytics team and the information technology operations team."
+> (Source: [DataVersity](https://www.dataversity.net/understanding-dataops/#))
+
+### Articles
+* Wikipedia: [DataOps](https://en.wikipedia.org/wiki/DataOps)
+* Garner Glossary: [DataOps](https://www.gartner.com/en/information-technology/glossary/dataops)
+* Data Kitchen: [[https://datakitchen.io]]
+  * [What is DataOps: Ten Most Common Questions](https://blog.datakitchen.io/blog/what-is-dataops-ten-most-common-questions)
+  * [The DataOps Manifesto](https://www.dataopsmanifesto.org/)
+* Dataversity: [Understanding DataOps](https://www.dataversity.net/understanding-dataops/)
+* [DevOps.com](https://devops.com/): [5 Ways Your Business Can Benefit From DataOps](https://devops.com/5-ways-your-business-can-benefit-from-dataops/)
+* Also, for more context on `*Ops`, check out this article from Medium.com: [What the Heck is \*Ops?](https://medium.com/data-ops/what-the-heck-is-ops-6dc58b63787d)
+
 
 ## Data Strategy
 ### United States
@@ -117,6 +131,7 @@ Here are some nice links to resources that focus on Data Science instruction, wh
 * Proquest Statistics Abstract of the United States (via California State Library. Card req.) — https://statabs-proquest-com.proxy.library.ca.gov/ 
 * US Census — https://www.census.gov/data/tables.html
 * [California Child Welfare indicators Project](http://cssr.berkeley.edu/ucb_childwelfare/default.aspx)
+* [US Center for Disease Control](https://data.cdc.gov/)
 
 ### Open Data Index
 #### Europe
