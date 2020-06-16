@@ -13,6 +13,8 @@ This page keeps track of the things I learn about data (broadly). I'll peel it o
 * [Oxford-Munich Code of Conduct](http://www.code-of-ethics.org/code-of-conduct/)
 * Accenture — [Universal Principals of Data Ethics, 12 Guidelines for developing ethics codes](https://www.accenture.com/t20160629T012639Z__w__/us-en/_acnmedia/PDF-24/Accenture-Universal-Principles-Data-Ethics.pdf) (PDF)
 
+### Bias and Justice
+* See page [Bias and Justice](./bias_and_justice_in_data.md)
 
 ### Articles
 * Phi Delta Kappan — [Ethical and appropriate data use requires data literacy](https://www.kappanonline.org/ethical-appropriate-data-use-requires-data-literacy-mandinach/)
