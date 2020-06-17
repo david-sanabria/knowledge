@@ -118,6 +118,9 @@ Here are some nice links to resources that focus on Data Science instruction, wh
 ### United States
 * [Federal Data Strategy](https://strategy.data.gov/)
 * [Federal Data Strategy - Action Plan for Year One](https://strategy.data.gov/action-plan/)
+## Canada
+* [Statistics Canada Data Strategy](https://www.statcan.gc.ca/eng/about/datastrategy)
+
 ## California
 * [California Health and Human Services Agency (CHHS) - Data Playbook](https://chhsdata.github.io/dataplaybook/)
 
