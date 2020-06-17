@@ -1,10 +1,10 @@
-# Know Data Found*
+# The "Know Data"* Page
 _My Data Knowledge Index_
 This page keeps track of the things I learn about data (broadly). I'll peel it off into sub-pages eventually.
-* Handy short link for this page: [https://bit.ly/know-data-found].
+* Handy short link for this page: [https://bit.ly/know-data].
 * See Also: My [Digital Literacy](./digital-literacy.md) page
 
-\* _Know Data Found, you know, like a "no data found". It's a nerd pun._
+\* _Know Data, you know, like a "no data found" error. It's an update on my old nerd pun._
 
 ## Ethics in Data
 ### Codes of Ethics and Practice
