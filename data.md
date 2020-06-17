@@ -2,11 +2,11 @@
 _My Data Knowledge Index_
 The "Know Data" page has moved to a new branch. Please update your bookmarks to use the new link:
 
-    https://bit.ly/know-data
+* https://bit.ly/know-data
   
 or use the full link:
 
-    https://github.com/david-sanabria/knowledge/blob/main/data.md
+* https://github.com/david-sanabria/knowledge/blob/main/data.md
     
 Note to self: I really need to switch to GitHub Pages!
 
