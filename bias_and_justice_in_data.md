@@ -29,6 +29,10 @@ understand the world.
 
 ## Taking Action
 * [Applying a Race Equity Lens: A Call to Action for Human Services](https://www.aphsa.org/About/call_to_action.aspx), American Public Human Services Association
+* Toolkit: [Centering Racial Equity Throughout Data Integration](https://www.aisp.upenn.edu/wp-content/uploads/2020/06/AISP-Toolkit_5.27.20.pdf), provided by [Actionable Intelligence for Social Policy Network (AISP)](https://www.aisp.upenn.edu/)
+
+  > “At this moment in our history, we can co-create data infrastructure to promote racial equity and the public good, or we can invest in data infrastructure that disregards the historical, social, and political context—reinforcing racial inequity that continues to harm communities. Building data infrastructure without a racial equity lens and understanding of historical context will exacerbate existing inequalities along the lines of race, gender, class, and ability. Instead, we commit to contextualize our work in the historical and structural oppression that shapes it, and organize stakeholders across geography, sector, and experience to center racial equity throughout data integration.”
+
 
 ### What Can I Do to Stop Racism?
 * [5 Anti-Racist Actions for White People to Take During COVID — 19](https://medium.com/@surj_action/5-anti-racist-actions-for-white-people-to-take-during-covid-19-1439e92696b3)
