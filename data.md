@@ -151,3 +151,14 @@ Here are some nice links to resources that focus on Data Science instruction, wh
   * [State Open Data Portal](http://data.ca.gov/)
   * [California Health and Human Services Agency - Open Data Portal](http://data.chhs.ca.gov/)
 
+### Public Data
+Public data is defined as data that is not specifically posted to 
+* [California Department of Education (CDE)](https://www.cde.ca.gov/ds/)
+
+
+### Research Data
+These links point to various resources that provide data upon request. They typically involve an approval process, but are not the same as a public records request. 
+#### California
+* [Health Care Access & Integrity (HCAI)](https://hcai.ca.gov/data-and-reports/)
+* [Department of Health Care Services (DHCS)](https://www.dhcs.ca.gov/dataandstats/data/Pages/AccessingProtectedData.aspx)
+* [California Department of Public Health (CDPH) — Vital Statistics](https://www.cdph.ca.gov/Programs/CHSI/Pages/Researchers-and-Statisticians.aspx)
